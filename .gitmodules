@@ -1,3 +1,4 @@
 [submodule "hakase"]
 	path = hakase
 	url = https://github.com/exentio/hakase
+	branch = main
